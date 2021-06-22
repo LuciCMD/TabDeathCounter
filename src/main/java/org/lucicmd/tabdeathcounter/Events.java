@@ -30,6 +30,6 @@ public class Events implements Listener {
     }
 
     private void showDeath(Player p, String name, String nbDeath) {
-        p.setPlayerListName(ChatColor.translateAlternateColorCodes('&', name + "    " + "&5" + nbDeath));
+        p.setPlayerListName(ChatColor.translateAlternateColorCodes('&', name + "    " + "&5" + "Deaths:" + nbDeath));
     }
 }
