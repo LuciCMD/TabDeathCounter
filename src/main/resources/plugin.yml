@@ -1,0 +1,3 @@
+name: TabDeathCounter
+version: 1.0
+main: org.lucicmd.tabdeathcounter.TabDeathCounter
